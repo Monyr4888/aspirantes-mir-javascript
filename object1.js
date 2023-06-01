@@ -19,7 +19,7 @@ const pedro = {
 
 console.log(pedro.edad);  //30
 console.log(pedro.estatura);// imprime 1.8
-console.log(pedro); //Elimina la propiedad con llave activo
+console.log(pedro); //Elimina la propiedad con llave activoo
 console.log(pedro.saluda());
 
 
